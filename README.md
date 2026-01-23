@@ -1,22 +1,17 @@
-<div align="center">
-  <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Arsh</h1>
-</div>
-  
-              ,---------------------------,
-              |  /---------------------\  |
-              | |                       | |
-              | |     Pet Projects      | |
-              | |      OpenSource       | |
-              | |     & Probably a      | |
-              | |       Startup         | |
-              |  \_____________________/  |
-              |___________________________|
-            ,---\_____     []     _______/------,
-          /         /______________\           /|
-        /___________________________________ /  | ___
-        |                                   |   |    )
-        |  _ _ _                 [-------]  |   |   (
-        |  o o o                 [-------]  |  /    _)_
-        |__________________________________ |/     /  /
-                                                  ( )/
-                                                  
+<pre>
+const arsh = {
+    location: "Somewhere writing code at 3 AM ☕",
+    currentlyWorking: "Pet Projects & Probably a Startup",
+    lifePhilosophy: "Build > Talk",
+    funFact: "Code is like humor. When you have to explain it, it's bad.",
+    askMeAbout: ["Python", "Web Dev", "Open Source ☭", "LLM WRAPPERS"],
+    technologies: {
+        honestly: "Agnostic; anything & everything if I need to get something done."
+    },
+    socials: {
+        email: "dyeusyt@gmail.com",
+        x: "x.com/iam_Dyeus",
+        linkedin: "linkedin.com/in/arsh03"
+    }
+};
+</pre>
