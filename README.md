@@ -1,3 +1,18 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/iamDyeus/iamDyeus/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/iamDyeus/iamDyeus/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/iamDyeus/iamDyeus/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
 <pre>
 const arsh = {
     location: "Somewhere writing code at 3 AM ☕",
