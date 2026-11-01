@@ -23,6 +23,7 @@ const arsh = {
     technologies: {
         honestly: "Agnostic; anything & everything if I need to get something done."
     },
+    built: "uval.ai, starthack.io, printyourvehicle.com, priompt.com",
     socials: {
         email: "dyeusyt@gmail.com",
         x: "x.com/iam_Dyeus",
